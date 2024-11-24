@@ -1,4 +1,4 @@
-# python-bouncing-game
+# Bouncing Ball Game using PyGame
 A simple bouncing ball game created in python, using the pygame library.\
 I created this project to try making a visual game from python!
 
