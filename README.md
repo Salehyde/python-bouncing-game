@@ -5,7 +5,7 @@ I created this project to try making a visual game from python!
 # Acknowledgement
 This coding project is created following a tutorial from FreeCodeCamp, an amazing platform for anyone to try their hands in programming and other IT-related projects!\
 All credits given to the author of the tutorial, Juan P. Romano and FreeCodeCamp.\
-Please check out the tutorial blog here: https://www.freecodecamp.org/news/pygame-tutorial-build-a-bouncing-game/ \
+Please check out the tutorial blog here: https://www.freecodecamp.org/news/pygame-tutorial-build-a-bouncing-game/ 
 
 # How to play the game
 1. Download the file
